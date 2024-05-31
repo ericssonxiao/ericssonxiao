@@ -15,20 +15,18 @@ I am planning to acquire skills and experience in Machine Learning via Hands-On 
 - Travel and Camping
 - Learning Languages.
 <br/>
-<br/>
 
 ### Tools, Languages and Frameworks I use:
 - <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,circleci" alt="tools logos" /><br><br>
 - <img src="https://skillicons.dev/icons?i=python,nodejs,go,html,css,js,java" alt="languages logos" /><br><br>
 <!-- <img src="https://skillicons.dev/icons?i=figma,discord" alt="softwares logos" /> -->
 <br/>
-<br/>
 
 ### The languages I speak:
-- <img src="./imgs/mandarin.png" width="13"/> **Mandarin**, it is my native language.
-- <img src="./imgs/english.png" width="13"/> **English**, the second language I use the most throughout my day.
-- <img src="./imgs/french.jpg" width="13"/> **French**, continue to improve it, I also use it in daily living.
-- <img src="./imgs/japanese.png" width="13"/> I am learning **Japanese** with duolingo.
+- <img src="./imgs/mandarin.png" width="24"/> **Mandarin**, it is my native language.
+- <img src="./imgs/english.png" width="24"/> **English**, the second language I use the most throughout my day.
+- <img src="./imgs/french.jpg" width="24"/> **French**, continue to improve it, I also use it in daily living.
+- <img src="./imgs/japanese.png" width="24"/> I am learning **Japanese** with duolingo.
 <br/>
 <br/> 
 
