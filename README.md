@@ -25,10 +25,10 @@ I am planning to acquire skills and experience in Machine Learning via Hands-On 
 <br/>
 
 ### The languages I speak:
-- <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Mandarin**, it is my native language.
-- <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> **English**, the second language I use the most throughout my day.
-- <img src="https://cdn-icons-png.flaticon.com/512/4628/4628643.png" width="13"/> **French**, continue to improve it, I also use it in daily living.
-- <img src="https://cdn-icons-png.flaticon.com/512/4854/4854950.png" width="13"/> I am learning **Japanese** with duolingo.
+- <img src="./imgs/mandarin.png" width="13"/> **Mandarin**, it is my native language.
+- <img src="./imgs/english.png" width="13"/> **English**, the second language I use the most throughout my day.
+- <img src="./imgs/french.jpg" width="13"/> **French**, continue to improve it, I also use it in daily living.
+- <img src="./imgs/japanese.png" width="13"/> I am learning **Japanese** with duolingo.
 <br/>
 <br/> 
 
