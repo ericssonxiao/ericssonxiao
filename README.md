@@ -28,11 +28,9 @@ I am planning to acquire skills and experience in Machine Learning via Hands-On 
 - <img src="./imgs/french.jpg" width="32"/> **French**, continue to improve it, I also use it in daily living， mais je conjugue souvent mal les verbes.
 - <img src="./imgs/japanese.png" width="32"/> I am learning **Japanese** with duolingo.
 <br/>
-<br/> 
 
 Feel free to check my Github, I am going to do more programming works, then upload on Github.
 Welcome to give me some advice in order to master Machine Learning quickly.
-<br/>
 <br/>
 
 <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericssonxiao&layout=compact&theme=dark&hide_border=true">
