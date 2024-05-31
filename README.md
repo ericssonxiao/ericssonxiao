@@ -9,7 +9,7 @@ I am planning to acquire skills and experience in Machine Learning via Hands-On 
 <br/>
 
 ### My interests:
-- ML, LLM, GenAI
+- AI, ML, LLM, GenAI
 - Music
 - Film
 - Travel and Camping
