@@ -25,7 +25,7 @@ I am planning to acquire skills and experience in Machine Learning via Hands-On 
 ### The languages I speak:
 - <img src="./imgs/mandarin.png" width="32"/> **Mandarin**, it is my native language.
 - <img src="./imgs/english.png" width="32"/> **English**, the second language I use the most throughout my day.
-- <img src="./imgs/french.jpg" width="32"/> **French**, continue to improve it, I also use it in daily living， mais je conjugue souvent mal les verbes.
+- <img src="./imgs/french.jpg" width="32"/> **French**, continue to improve it, I also use it in daily living， mais je conjugue souvent mal les verbes. Petit à petit, l’oiseau fait son nid.
 - <img src="./imgs/japanese.png" width="32"/> I am learning **Japanese** with duolingo.
 <br/>
 
